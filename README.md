@@ -21,7 +21,7 @@ Success in the Role: What are the performance outcomes over the first 6-12 month
 o	Within 30 days of employment, you will be able to search a thesaurus for words that are different but mean the same. 
 o	90 days of employment, you will take solo flight into the discord in search of weary developers to sympathize with. They are easy to spot…they have many posts that usually start with “Why Can’t I…”  or “How in the ****** do you ……”
 o	180 days of employment, you will have fair amount of hands-on experience and expertise in the projects that are in development and be able to provide sympathetic posts regarding design, implementation, and support.
-o	Within 360 days of employment, you should be on the mailing list for at least 12 Christmas Card and 2 fruit baskets .
+o	Within 360 days of employment, you should be on the mailing list for at least 12 Christmas Cards and 2 fruit baskets .
 
 
 The Work: What type of work will you be doing? What assignments, requirements, or skills will you be performing on a regular basis?
